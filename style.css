@@ -1,0 +1,26 @@
+li{
+	list-style-type: none;
+	text-align: left;
+	font-family: 'Girassol', cursive;
+}
+.todo{
+	width:300px;
+	height:600px;
+	margin:0 auto;
+	text-align: center;
+	background-color:white;
+	-webkit-box-shadow: 5px 9px 9px 4px rgba(34, 60, 80, 0.2);
+-moz-box-shadow: 5px 9px 9px 4px rgba(34, 60, 80, 0.2);
+box-shadow: 5px 9px 9px 4px rgba(34, 60, 80, 0.2);
+
+}
+body{
+background-image: linear-gradient(to right top, #9fedf4, #57d8ff, #15bdff, #5b99ff, #a368f0);
+}
+h1{
+	font-family: 'Girassol', cursive;
+	background-color:#545bb8;
+}
+button{
+	font-family: 'Girassol', cursive;
+}
